@@ -1,0 +1,5 @@
+--class-path src
+--class-path test
+--library utest
+--main TestAll
+--debug

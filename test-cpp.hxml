@@ -1,0 +1,3 @@
+test-base.hxml
+--library hxcpp-debug-server
+--cpp bin/cpp

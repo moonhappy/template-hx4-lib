@@ -1,0 +1,17 @@
+##
+# Build
+##
+
+--cmd echo "\n[Building CPP]"
+--next
+test-cpp.hxml
+
+
+
+##
+# Run
+##
+
+--next
+--cmd echo "\n[Running CPP]"
+--cmd ./bin/cpp/TestAll-debug

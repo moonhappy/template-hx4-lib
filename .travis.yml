@@ -1,0 +1,9 @@
+language: haxe
+
+before_install:
+  - sudo apt-get update
+  - haxelib install utest
+  - haxelib install hxcpp-debug-server
+
+hxml:
+  - test.hxml

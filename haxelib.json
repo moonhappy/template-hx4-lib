@@ -1,0 +1,12 @@
+{
+    "name": "hxscene",
+    "url": "https://github.com/moonhappy/hxscene",
+    "license": "MIT",
+    "classPath": "src",
+    "description": "Manage game objects using a theatre/stage like paradigm, using scene constructs.",
+    "version": "1.0.0",
+    "releasenote": "update",
+    "contributors": [
+        "moonhappy"
+    ]
+}
