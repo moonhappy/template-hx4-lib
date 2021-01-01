@@ -1,0 +1,27 @@
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <rect id="frame" height="200" width="600" y="0" x="0" fill="black" rx="32" ry="32"/>
+  <circle fill="#efefef" cx="75" cy="40" r="4" id="re" />
+  <circle fill="#efefef" cx="125" cy="40" r="4" id="le" />
+  <circle fill="#3f3f3f" cx="100" cy="150" r="16" id="fm" />
+  <path id="em" filter="url(#em_blur)" d="M 84 150 C 84 160, 116 160, 116 150 C 116 170, 84 170, 84 150" fill="white"/>
+  <text style="filter: url(#glow); fill: #6f6f6f" x="170" y="150" font-size="70">hx</text>
+  <text x="170" y="150" style="fill: white" font-size="70">hx</text>
+  <text style="filter: url(#glow); fill: #6f6f6f" x="240" y="150" font-size="100">SCENE</text>
+  <text x="240" y="150" style="fill: white" font-size="100">SCENE</text>
+ </g>
+ <defs>
+  <filter id="em_blur">
+   <feGaussianBlur stdDeviation="1"/>
+  </filter>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="10 10" result="glow"/>
+    <feMerge>
+      <feMergeNode in="glow"/>
+      <feMergeNode in="glow"/>
+      <feMergeNode in="glow"/>
+    </feMerge>
+  </filter>
+ </defs>
+</svg>
