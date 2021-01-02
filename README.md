@@ -1,5 +1,7 @@
 ![hxSCENE](TITLE.svg)
 
+[![Build Status](https://travis-ci.com/moonhappy/hxscene.svg?branch=main)](https://travis-ci.com/moonhappy/hxscene)
+
 Manage game objects using a theatre/stage like paradigm, using scene constructs.
 
 # Testing
