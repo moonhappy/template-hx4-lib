@@ -1,7 +1,9 @@
-
 class TestAll {
 	static public function main() {
-		var button = "Test It";
-        trace(button);
+		// the long way
+		var runner = new utest.Runner();
+		runner.addCase(new TestCase1());
+		utest.ui.Report.create(runner);
+		runner.run();
 	}
 }
