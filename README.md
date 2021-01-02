@@ -4,7 +4,7 @@
 
 Some description about the project...
 
-_**NOTE:** It is recommend to copy this repository contents and have it as a basis for the new Haxe Library. Be sure to to a global find of "acme" and "template" first and replace with the new project's name. Also, be sure to update the build badge in this README.md document._
+_**NOTE:** It is recommend to copy this repository contents and have it as a basis for the new Haxe Library. Be sure to run a global find of "acme" and "template" first and replace with the new project's name. Also, be sure to update the build badge in this README.md document._
 
 # Testing
 
