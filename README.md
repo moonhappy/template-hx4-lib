@@ -1,11 +1,17 @@
-![hxACME](TITLE.svg)
+<p align="center">
+<img src="TITLE.svg" alt="hxACME" width="600" height="200">
+</p>
 
-[![Build Status](https://badgen.net/travis/moonhappy/hxscene)](https://travis-ci.com/moonhappy/hxscene)
-[![Haxelib Version](https://badgen.net/haxelib/v/hxscene?color=blue)](https://lib.haxe.org/p/hxscene)
-[![Haxelib Downloads](https://badgen.net/haxelib/d/hxscene?color=blue)](https://lib.haxe.org/p/hxscene)
-[![Haxelib License](https://badgen.net/haxelib/license/hxscene?color=blue)](LICENSE)
+<p align="center">
+<a href="https://travis-ci.com/moonhappy/hxscene"><img src="https://badgen.net/travis/moonhappy/hxscene" alt="Build Status"></a>
+<a href="https://lib.haxe.org/p/hxscene"><img src="https://badgen.net/haxelib/v/hxscene?color=blue" alt="Build Version"></a>
+<a href="https://lib.haxe.org/p/hxscene"><img src="https://badgen.net/haxelib/d/hxscene?color=blue" alt="Haxelib Downloads"></a>
+<a href="LICENSE"><img src="https://badgen.net/haxelib/license/hxscene?color=blue" alt="License"></a>
+</p>
 
+<p align="center">
 Some description about the project...
+</p>
 
 _**NOTE:** It is recommend to copy this repository contents and have it as a basis for the new Haxe Library. Be sure to run a global find of "acme" and "template" first and replace with the new project's name. Also, be sure to update the build badge in this README.md document._
 
