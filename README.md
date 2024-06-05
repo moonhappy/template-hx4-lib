@@ -1,19 +1,19 @@
 <p align="center">
-<img src="TITLE.svg" alt="hxACME" width="600" height="200">
+<img src="TITLE.svg" alt="hxtemplate-lib" width="600" height="200">
 </p>
 
 <p align="center">
-<a href="https://travis-ci.com/moonhappy/hxscene"><img src="https://badgen.net/travis/moonhappy/hxscene" alt="Build Status"></a>
-<a href="https://lib.haxe.org/p/hxscene"><img src="https://badgen.net/haxelib/v/hxscene?color=blue" alt="Build Version"></a>
-<a href="https://lib.haxe.org/p/hxscene"><img src="https://badgen.net/haxelib/d/hxscene?color=blue" alt="Haxelib Downloads"></a>
-<a href="LICENSE"><img src="https://badgen.net/haxelib/license/hxscene?color=blue" alt="License"></a>
+<a href="https://travis-ci.com/moonhappy/hxtemplate-lib"><img src="https://badgen.net/travis/moonhappy/hxtemplate-lib" alt="Build Status"></a>
+<a href="https://lib.haxe.org/p/hxtemplate-lib"><img src="https://badgen.net/haxelib/v/hxtemplate-lib?color=blue" alt="Build Version"></a>
+<a href="https://lib.haxe.org/p/hxtemplate-lib"><img src="https://badgen.net/haxelib/d/hxtemplate-lib?color=blue" alt="Haxelib Downloads"></a>
+<a href="LICENSE"><img src="https://badgen.net/haxelib/license/hxtemplate-lib?color=blue" alt="License"></a>
 </p>
 
 <p align="center">
 Some description about the project...
 </p>
 
-_**NOTE:** It is recommend to copy this repository contents and have it as a basis for the new Haxe Library. Be sure to run a global find of "acme" and "template" first and replace with the new project's name. Also, be sure to update the build badge in this README.md document._
+_**NOTE:** It is recommend to copy this repository contents and have it as a basis for the new [Haxe](https://haxe.org) Library (specifically [Haxelib](https://lib.haxe.org)). Be sure to run a global find of "lib" and "template" first and replace with the new project's name. Also, be sure to update the build badge in this README.md document._
 
 # Testing
 
@@ -33,7 +33,7 @@ The project has the Visual Studio Code `.vscode` configuration pre-defined so th
 5. Run "HXCPP: Setup" from VS Code command palette (`F1` or `CMD+SHIFT+P`).
 6. Restart VS Code (just to be safe), then hit `F5` to initiate build and run debug of the unit tests.
 
-After the inital steps are completed, you don't need do these steps again.
+After the initial steps are completed, you don't need do these steps again.
 
 ## Testing: CLI
 
